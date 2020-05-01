@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.d7091a5d.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.b74b2119.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.b74b2119.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.3e2257a3.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.3e2257a3.js.map",
+    "static/js/2.add0b28c.chunk.js": "/MyPortfolio/static/js/2.add0b28c.chunk.js",
+    "static/js/2.add0b28c.chunk.js.map": "/MyPortfolio/static/js/2.add0b28c.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "precache-manifest.e55051580e0dbb1656e252f0a26e3ecb.js": "/MyPortfolio/precache-manifest.e55051580e0dbb1656e252f0a26e3ecb.js",
+    "service-worker.js": "/MyPortfolio/service-worker.js",
+    "static/css/main.d7091a5d.chunk.css.map": "/MyPortfolio/static/css/main.d7091a5d.chunk.css.map",
+    "static/js/2.add0b28c.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.add0b28c.chunk.js.LICENSE.txt",
+    "static/media/MyFirstWebsite.png": "/MyPortfolio/static/media/MyFirstWebsite.60518087.png",
+    "static/media/PathFindingVisualizer.png": "/MyPortfolio/static/media/PathFindingVisualizer.8b16c915.png",
+    "static/media/Resume-Mayank-Meena.pdf": "/MyPortfolio/static/media/Resume-Mayank-Meena.e2e7c219.pdf",
+    "static/media/SnakeQuarantined.png": "/MyPortfolio/static/media/SnakeQuarantined.704f8c35.png",
+    "static/media/App.css": "/MyPortfolio/static/media/Untitled.1b838c6c.png",
+    "static/media/arduino.jpg": "/MyPortfolio/static/media/arduino.7d258953.jpg",
+    "static/media/github.png": "/MyPortfolio/static/media/github.0ba2aa20.png",
+    "static/media/insta.png": "/MyPortfolio/static/media/insta.097b7749.png",
+    "static/media/instructables-logo.png": "/MyPortfolio/static/media/instructables-logo.a30d60b6.png",
+    "static/media/mail.png": "/MyPortfolio/static/media/mail.828e4779.png",
+    "static/media/mayank.jpg": "/MyPortfolio/static/media/mayank.e9208d30.jpg",
+    "static/media/twitter.png": "/MyPortfolio/static/media/twitter.7541b24c.png",
+    "static/media/welcome.php": "/MyPortfolio/static/media/welcome.c590943d.php",
+    "static/media/youtube.png": "/MyPortfolio/static/media/youtube.b01ed54a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e2257a3.js",
+    "static/js/2.add0b28c.chunk.js",
+    "static/css/main.d7091a5d.chunk.css",
+    "static/js/main.b74b2119.chunk.js"
+  ]
+}
