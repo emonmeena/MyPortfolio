@@ -5,7 +5,7 @@ My Website | Portfolio -  All you need to Know  About Me, My Projects, and My Bl
 * Responsive Website
 * UI made from REACT
 * CSS Animations
-* Contact Form
+* Contact Form (PHP)
 * Auto Scroll onClick (Header)
 * Fade on Scroll API
 * gh-pages
