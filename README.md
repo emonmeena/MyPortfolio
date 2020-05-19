@@ -9,7 +9,7 @@ My Website | Portfolio -  All you need to Know  About Me, My Projects, and My Bl
 * Auto Scroll onClick (Header)
 * Fade on Scroll API
 * smooth rendering
-* gh-pages
+* gh-pages (encrypted)
 
 ## Technoogies Used
 * HTML5 CSS3 JavaScript REACT & PHP
