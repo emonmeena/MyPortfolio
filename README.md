@@ -3,7 +3,11 @@ My Website | Portfolio -  All you need to Know  About Me, My Projects, and My Bl
 
 ## Features
 * Responsive Website
+* UI made from REACT
 * CSS Animations
+* Contact Form
+* Auto Scroll onClick (Header)
+* Fade on Scroll API
 * gh-pages
 
 ## Technoogies Used
