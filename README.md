@@ -8,7 +8,7 @@ My Website | Portfolio -  All you need to Know  About Me, My Projects, and My Bl
 * Contact Form (PHP)
 * Auto Scroll onClick (Header)
 * Fade on Scroll API
-* Smooth rendering
+* Smooth Rendering
 * gh-pages (encrypted)
 
 ## Technoogies Used
