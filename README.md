@@ -13,5 +13,5 @@ My Website | Portfolio -  All you need to Know  About Me, My Projects, and My Bl
 
 ## Technoogies Used
 * HTML5 CSS3 JavaScript REACT & PHP
-## Workspace
+## Workspace Environment
 * REACT-APP Visual-Studio Node.js Git-bash Chrome
